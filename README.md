@@ -1,4 +1,6 @@
-# desafio-googlon
+# Desafio Googlon
+
+![app](src/assets/app_preview.png?raw=true "Application preview")
 
 ## Project setup
 ```
