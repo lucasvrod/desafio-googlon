@@ -2,6 +2,7 @@
 
 ![app](src/assets/app_preview.png?raw=true "Application preview")
 
+### [Preview](https://desafio-googlon.herokuapp.com/)
 ## Project setup
 ```
 npm install
