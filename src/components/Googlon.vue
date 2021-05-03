@@ -48,10 +48,6 @@ export default {
         this.text = text.trim();
       }
       this.foo = ['s', 'j', 'n', 'c', 'q'];
-      this.verbos = 0;
-      this.verbosPrimeiraPessoa = 0;
-      this.preposicoes = 0;
-      this.numerosBonitosDistintos = 0;
       this.lexico = 'skmgnwqztxdrpcfjlbvh';
     },
     generateGooglon() {
